@@ -1,0 +1,9 @@
+node_modules
+.idea
+
+# Entry point file name should be main.js
+index.js
+
+# Use environment variables for storing sensitive information.
+config.json
+.env
